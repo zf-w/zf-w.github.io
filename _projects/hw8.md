@@ -43,6 +43,6 @@ custom_js:
 <!-- these are written in a combo of html and liquid --> 
 
 <div class="center">
-{% include elements/button.html link="https://raw.githubusercontent.com/zf-w/zf-w.github.io/main/python_notebooks/HW8.ipynb" text="The Data" %}
+{% include elements/button.html link="https://github.com/zf-w/zf-w.github.io/blob/main/python_notebooks/HW8.ipynb" text="The Data" %}
 </div>
 
