@@ -1,0 +1,1 @@
+@media (max-width:800px){.graph{width:100%}}@media (min-width:800px) and (max-width:1400px){.graph{width:66%}}@media (min-width:1400px){.graph{width:50%}}.graph{aspect-ratio:1;margin:auto;cursor:-webkit-grab;cursor:grab;display:block}.graph-container{position:relative;width:100%}.graph:active{cursor:-webkit-grabbing;cursor:grabbing}
